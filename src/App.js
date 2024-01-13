@@ -6,12 +6,12 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={auto} className="App-logo" alt="logo" />
+        <img src={auto} className="auto" alt="auto" />
         <p>
-          Testi onnistuuko?
+          Minnan testi onnistuuko?
         </p>
         <p>
-          Ja kyllä tämä onnistuu! Ja auton kuvakin lisättiin 
+          Ja kyllä tämä onnistuu! Ja auton kuvakin lisättiin.
         </p>
   
       </header>
